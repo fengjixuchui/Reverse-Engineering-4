@@ -5,7 +5,20 @@ A FREE comprehensive reverse engineering course covering x86, x64, 32-bit ARM & 
 
 <br> 
 
-## PROMOTIONAL VIDEO - WATCH NOW [HERE](https://youtu.be/Yz0zFsp0qzE) ON YOUTUBE
+## DC540 Defcon Group
+## Tree Of Life Badge 
+## PROMOTIONAL VIDEO
+### WATCH NOW [HERE](https://youtu.be/uRFG0-GqBxs) ON YOUTUBE
+![image](https://raw.githubusercontent.com/mytechnotalent/Reverse-Engineering/main/Tree%20Of%20Life%20Badge.jpg)
+
+<br>
+
+## Join DC540 Defcon Group Discord [HERE](https://discord.gg/TC9V9RCr5U)
+
+<br>
+
+## COURSE PROMOTIONAL VIDEO
+### WATCH NOW [HERE](https://youtu.be/Yz0zFsp0qzE) ON YOUTUBE
 
 <br>
 
@@ -15,12 +28,17 @@ Assembled by @0xInfection (Twitter)
 
 <br>
 
+## FREE Fundamental C++ PDF [HERE](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Fundamental%20C%2B%2B.pdf)
+UNDER DEVELOPMENT, NEXT LESSON COMING SOON!
+
+<br>
+
 ## HACKING CHALLENGE 0x00001 [HERE](https://github.com/mytechnotalent/dc540-0x00001)
 ## HACKING CHALLENGE 0x00002 [MicroPython CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00002)
 
 <br>
 
-## Join DC540 Discord [HERE](https://discord.gg/TC9V9RCr5U)
+## FREE Tor Everything PDF [HERE](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Tor%20Everything.pdf)
 
 <br>
 
@@ -1002,11 +1020,70 @@ In this lesson we will discuss the double data type.
 -> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-14-double-kevin-thomas/) to read the article on LinkedIn.
 
 ## Lesson 192: Pico Hacking Course (Part 15 - Debugging double)
-In this lesson we will discuss the double data type.
+In this lesson we will discuss debugging the double data type.
 
 -> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-15-debugging-double-kevin-thomas/) to read the article on LinkedIn.
 
-## Lesson 193 - COMING SOON
+## Lesson 193: Pico Hacking Course (Part 16 - Hacking double)
+In this lesson we will discuss hacking the double data type.
+
+-> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-16-double-kevin-thomas/) to read the article on LinkedIn.
+
+## Lesson 194: Pico Hacking Course (Part 17 - "ABSOLUTE POWER CORRUPTS ABSOLUTELY!", The Tragic Tale Of Input...)
+In this lesson we will discuss the concept of proper input handling.
+
+-> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-17-absolute-power-corrupts-tragic-kevin-thomas/) to read the article on LinkedIn.
+
+## Lesson 195: Pico Hacking Course (Part 18 - "FOR 800 YEARS HAVE I TRAINED JEDI!", The FORCE That IS Input...)
+In this lesson we will discuss the importance of proper input handling in addition to breaking down our custom input function.
+
+-> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-18-800-years-have-i-trained-jedi-force-thomas/) to read the article on LinkedIn.
+
+## Lesson 196: Pico Hacking Course (Part 19 - Input)
+In this lesson we will discuss creating an effective input architecture.
+
+-> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-19-input-kevin-thomas/) to read the article on LinkedIn.
+
+## Lesson 197: Pico Hacking Course (Part 20 - Debugging Input)
+In this lesson we will discuss debugging input.
+
+-> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-20-debugging-input-kevin-thomas/) to read the article on LinkedIn.
+
+<br>
+
+## C++ Fundamentals Course
+
+## Lesson 1: C++ Fundamentals Course (Chapter 1 - Hello World)
+In this lesson we will discuss the basics of C++ output.
+
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Fundamental%20C%2B%2B.pdf) to read the FREE pdf book.
+
+## Lesson 2: C++ Fundamentals Course (Chapter 2 - Variables, Constants, Arrays, Vectors, Statements, Operators, Strings)
+In this lesson we will discuss variables, constants, arrays, vectors, statements, operators and strings.
+
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Fundamental%20C%2B%2B.pdf) to read the FREE pdf book.
+
+## Lesson 3: C++ Fundamentals Course (Chapter 3 - Program Flow)
+In this lesson we will discuss the basics of program flow.
+
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Fundamental%20C%2B%2B.pdf) to read the FREE pdf book.
+
+## Lesson 4: C++ Fundamentals Course (Chapter 4 - Functions)
+In this lesson we will discuss functions.
+
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Fundamental%20C%2B%2B.pdf) to read the FREE pdf book.
+
+## Lesson 5: C++ Fundamentals Course (Chapter 5 - Pointers)
+In this lesson we will discuss pointers.
+
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Fundamental%20C%2B%2B.pdf) to read the FREE pdf book.
+
+## Lesson 6: C++ Fundamentals Course (Chapter 6 - Input)
+In this lesson we will discuss proper input validation.
+
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Fundamental%20C%2B%2B.pdf) to read the FREE pdf book.
+
+### UNDER DEVELOPMENT, NEXT LESSON COMING SOON!
 
 <br>
 
