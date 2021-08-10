@@ -6,12 +6,11 @@ A FREE comprehensive reverse engineering course covering x86, x64, 32-bit ARM & 
 <br> 
 
 ## DC540 Defcon Group
-## Tree Of Life Badge 
-## PROMOTIONAL VIDEO
-### WATCH NOW [HERE](https://youtu.be/uRFG0-GqBxs) ON YOUTUBE
-![image](https://raw.githubusercontent.com/mytechnotalent/Reverse-Engineering/main/Tree%20Of%20Life%20Badge.jpg)
+## HACKING CHALLENGE dc540-0x00003 [C CTF]
+## HACK NOW [HERE](https://github.com/mytechnotalent/dc540-0x00003/) ON GITHUB
+![image](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/DC540%20Angels%20Of%20Death.png?raw=true)
 
-<br>
+<br> 
 
 ## Join DC540 Defcon Group Discord [HERE](https://discord.gg/TC9V9RCr5U)
 
@@ -22,8 +21,8 @@ A FREE comprehensive reverse engineering course covering x86, x64, 32-bit ARM & 
 
 <br>
 
-## FREE E-BOOK [HERE](https://0xinfection.github.io/reversing/)
-## FREE PDF [HERE](https://0xinfection.github.io/reversing/reversing-for-everyone.pdf)
+## FREE Reverse Engineering E-BOOK [HERE](https://0xinfection.github.io/reversing/)
+## FREE Reverse Engineering PDF [HERE](https://0xinfection.github.io/reversing/reversing-for-everyone.pdf)
 Assembled by @0xInfection (Twitter)
 
 <br>
@@ -33,8 +32,9 @@ UNDER DEVELOPMENT, NEXT LESSON COMING SOON!
 
 <br>
 
-## HACKING CHALLENGE 0x00001 [HERE](https://github.com/mytechnotalent/dc540-0x00001)
-## HACKING CHALLENGE 0x00002 [MicroPython CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00002)
+## HACKING CHALLENGE dc540-0x00001 [HERE](https://github.com/mytechnotalent/dc540-0x00001)
+## HACKING CHALLENGE dc540-0x00002 [MicroPython CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00002)
+## HACKING CHALLENGE dc540-0x00003 [C CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00003)
 
 <br>
 
