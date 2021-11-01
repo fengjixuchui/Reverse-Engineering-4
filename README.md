@@ -16,6 +16,13 @@ A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM 
 
 <br>
 
+## HACKING CHALLENGE dc540-0x00001 [HERE](https://github.com/mytechnotalent/dc540-0x00001)
+## HACKING CHALLENGE dc540-0x00002 [MicroPython CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00002)
+## HACKING CHALLENGE dc540-0x00003 [C CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00003)
+## HACKING CHALLENGE dc540-0x00004 [C CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00004)
+
+<br>
+
 ## COURSE PROMOTIONAL VIDEO
 ### WATCH NOW [HERE](https://youtu.be/Yz0zFsp0qzE) ON YOUTUBE
 
@@ -27,12 +34,16 @@ Assembled by @0xInfection (Twitter)
 
 <br>
 
+## ToyOS [HERE](https://github.com/mytechnotalent/ToyOS)
+
+<br>
+
 ## AArch64 Bytes [HERE](https://github.com/mytechnotalent/AArch64-Bytes)
 UNDER DEVELOPMENT
 
 <br>
 
-## Hacking Windows E-BOOK [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_5r1.pdf)
+## Hacking Windows E-BOOK [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf)
 UNDER DEVELOPMENT
 
 <br>
@@ -50,13 +61,6 @@ UNDER DEVELOPMENT
 
 <br>
 
-## HACKING CHALLENGE dc540-0x00001 [HERE](https://github.com/mytechnotalent/dc540-0x00001)
-## HACKING CHALLENGE dc540-0x00002 [MicroPython CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00002)
-## HACKING CHALLENGE dc540-0x00003 [C CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00003)
-## HACKING CHALLENGE dc540-0x00004 [C CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00004)
-
-<br>
-
 ## Tor Everything PDF [HERE](https://github.com/mytechnotalent/TOR-Everything/blob/main/TOR%20Everything.pdf)
 
 <br>
@@ -64,6 +68,19 @@ UNDER DEVELOPMENT
 ## STM32F401CCUx_PA0ButtonHandler Driver (Assembly Language) [HERE](https://github.com/mytechnotalent/STM32F401CCUx_PA0ButtonHandler)
 
 <br>
+
+## Python For Kids PDF [HERE](https://github.com/mytechnotalent/Python-For-Kids/blob/main/Python_For_Kids_01r.pdf)
+
+<br>
+
+## Ansible For Everyone PDF [HERE]()
+
+<br>
+
+## Selenium For Everyone PDF [HERE](https://github.com/mytechnotalent/Selenium-For-Everyone/blob/main/Selenium_For_Everyone_r_01.pdf)
+
+<br>
+
 
 ## x86 Course
 
@@ -1109,6 +1126,12 @@ In this bite we learn about what happens at the very core of a 32-bit AArch64 in
 
 -> Click [HERE](https://medium.com/@mytechnotalent/aarch-64-bytes-part-1-reversing-exit-f7e4775d5e14) to read the article on Medium.
 
+## AArch64 Bytes Articles (Part 2: 64-bit Immediate Values)
+In this bite we learn about how to handle moving a 64-bit immediate value into a 64-bit register.
+
+-> Click [HERE](https://medium.com/@mytechnotalent/aarch-64-bytes-part-2-64-bit-immediate-values-d9daa5256d76) to read the article on Medium.
+
+
 ## ARTICLES ARE UNDER DEVELOPMENT
 
 <br>
@@ -1118,27 +1141,32 @@ In this bite we learn about what happens at the very core of a 32-bit AArch64 in
 ## Windows Hacking Course (Chapter 1 - Hello World)
 This chapter covers the basics of designing a very simple Windows Assembly Language message box program in pure Assembly for both x86 and x64 architectures.
 
--> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_5r1.pdf) to read the FREE pdf book.
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
 
 ## Windows Hacking Course (Chapter 2: Debugging Hello World x86)
 This chapter covers the dynamic reverse engineering analysis, debugging, of the Hello World app in x86 Assembly.
 
--> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_5r1.pdf) to read the FREE pdf book.
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
 
 ## Windows Hacking Course (Chapter 3: Hacking Hello World x86)
 This chapter covers the dynamic reverse engineering analysis, hacking, of the Hello World app in x86 Assembly.
 
--> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_5r1.pdf) to read the FREE pdf book.
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
 
 ## Windows Hacking Course (Chapter 4: Debugging Hello World x64)
 This chapter covers the dynamic reverse engineering analysis, debugging, of the Hello World app in x64 Assembly.
 
--> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_5r1.pdf) to read the FREE pdf book.
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
 
-## Windows Hacking Course (Chapter 3: Hacking Hello World x64)
+## Windows Hacking Course (Chapter 5: Hacking Hello World x64)
 This chapter covers the dynamic reverse engineering analysis, hacking, of the Hello World app in x64 Assembly.
 
--> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_5r1.pdf) to read the FREE pdf book.
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
+
+## Windows Hacking Course (Chapter 6: Directories)
+This chapter covers reviewing the Windows API CreateDirectoryW and RemoveDirectoryW functions in C.
+
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
 
 ## BOOK IS UNDER DEVELOPMENT
 
