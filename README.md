@@ -5,21 +5,17 @@ A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM 
 
 <br>
 
-## DC540 Defcon Group
-## HACKING CHALLENGE dc540-0x00004 [C CTF]
-## HACK NOW [HERE](https://github.com/mytechnotalent/dc540-0x00004/) ON GITHUB
-![image](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/DC540%20Angels%20Of%20Death.png?raw=true)
-
-<br> 
-
-## Join DC540 Defcon Group Discord [HERE](https://discord.gg/TC9V9RCr5U)
+## Join DC540 Discord [HERE](https://discord.gg/TC9V9RCr5U)
 
 <br>
 
-## HACKING CHALLENGE dc540-0x00001 [HERE](https://github.com/mytechnotalent/dc540-0x00001)
-## HACKING CHALLENGE dc540-0x00002 [MicroPython CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00002)
-## HACKING CHALLENGE dc540-0x00003 [C CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00003)
-## HACKING CHALLENGE dc540-0x00004 [C CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00004)
+![image](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/DC540%20Angels%20Of%20Death.png?raw=true)
+
+## DC540 Hacking Challenge 0x00001 [HERE](https://github.com/mytechnotalent/dc540-0x00001) ON GITHUB
+## DC540 Hacking Challenge 0x00002 [MicroPython CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00002) ON GITHUB
+## DC540 Hacking Challenge 0x00003 [C CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00003) ON GITHUB
+## DC540 Hacking Challenge 0x00004 [C CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00004) ON GITHUB
+## DC540 Hacking Challenge 0x00005a [HERE](https://github.com/mytechnotalent/dc540-0x00005a) ON GITHUB
 
 <br>
 
@@ -74,13 +70,13 @@ UNDER DEVELOPMENT
 <br>
 
 ## Ansible For Everyone PDF [HERE]()
+UNDER DEVELOPMENT
 
 <br>
 
 ## Selenium For Everyone PDF [HERE](https://github.com/mytechnotalent/Selenium-For-Everyone/blob/main/Selenium_For_Everyone_r_01.pdf)
 
 <br>
-
 
 ## x86 Course
 
@@ -1165,6 +1161,16 @@ This chapter covers the dynamic reverse engineering analysis, hacking, of the He
 
 ## Windows Hacking Course (Chapter 6: Directories)
 This chapter covers reviewing the Windows API CreateDirectoryW and RemoveDirectoryW functions in C.
+
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
+
+## Windows Hacking Course (Chapter 7: Debugging Directories x86)
+This chapter covers dynamic reverse engineering analysis, debugging, the Windows API CreateDirectoryW and RemoveDirectoryW functions in x86 Assembly.
+
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
+
+## Windows Hacking Course (Chapter 8: Hacking Directories x86)
+This chapter covers dynamic reverse engineering analysis, hacking, the Windows API CreateDirectoryW and RemoveDirectoryW functions in x86 Assembly.
 
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
 
