@@ -16,6 +16,7 @@ A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM 
 ## DC540 Hacking Challenge 0x00003 [C CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00003) ON GITHUB
 ## DC540 Hacking Challenge 0x00004 [C CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00004) ON GITHUB
 ## DC540 Hacking Challenge 0x00005a [HERE](https://github.com/mytechnotalent/dc540-0x00005a) ON GITHUB
+## DC540 Hacking Challenge 0x00005b [Assembler CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00005b) ON GITHUB
 
 <br>
 
@@ -27,10 +28,6 @@ A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM 
 ## Reverse Engineering E-BOOK [HERE](https://0xinfection.github.io/reversing/)
 ## Reverse Engineering PDF [HERE](https://0xinfection.github.io/reversing/reversing-for-everyone.pdf)
 Assembled by @0xInfection (Twitter)
-
-<br>
-
-## Go With The Flow: Learning Flow DApp & Cadence Smart Contract Development from zero to hero! [HERE](https://github.com/mytechnotalent/Go-With-The-Flow)
 
 <br>
 
@@ -1188,6 +1185,11 @@ This chapter covers dynamic reverse engineering analysis, hacking, the Windows A
 
 ## Windows Hacking Course (Chapter 9: Debugging Directories x64)
 This chapter covers dynamic reverse engineering analysis, debugging, the Windows API CreateDirectoryW and RemoveDirectoryW functions in x64 Assembly.
+
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
+
+## Windows Hacking Course (Chapter 10: Hacking Directories x64)
+This chapter covers dynamic reverse engineering analysis, hacking, the Windows API CreateDirectoryW and RemoveDirectoryW functions in x64 Assembly.
 
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
 
