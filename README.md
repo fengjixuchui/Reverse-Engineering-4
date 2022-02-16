@@ -31,12 +31,15 @@ Assembled by @0xInfection (Twitter)
 
 <br>
 
-## ToyOS [HERE](https://github.com/mytechnotalent/ToyOS)
+## STEM Reverse Engineering Demo [HERE](https://github.com/mytechnotalent/micro-bit-Reverse-Engineering)
 
 <br>
 
 ## AArch64 Bytes [HERE](https://github.com/mytechnotalent/AArch64-Bytes)
-UNDER DEVELOPMENT
+
+<br>
+
+## ToyOS [HERE](https://github.com/mytechnotalent/ToyOS)
 
 <br>
 
@@ -45,41 +48,21 @@ UNDER DEVELOPMENT
 
 <br>
 
-## STEM Reversing Demo [HERE](https://github.com/mytechnotalent/micro-bit-Reverse-Engineering)
-
-<br>
-
 ## Zeek Network Security Monitor [HERE](https://github.com/mytechnotalent/Zeek-Network-Security-Monitor)
 
 <br>
 
-## Fundamental C++ PDF [HERE](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Fundamental%20C%2B%2B.pdf)
-
-<br>
-
-## MicroPython Firmware Development PDF [HERE](https://github.com/mytechnotalent/micropython-firmware-development/blob/main/MicroPython_Firmware_Development_5r1.pdf)
+## Fundamental Go PDF [HERE](https://github.com/mytechnotalent/Fundamental-Go/blob/main/Fundamental_Go_ALPHA.pdf)
 UNDER DEVELOPMENT
 
 <br>
 
-## Tor Everything PDF [HERE](https://github.com/mytechnotalent/TOR-Everything/blob/main/TOR%20Everything.pdf)
-
-<br>
-
-## STM32F401CCUx_PA0ButtonHandler Driver (Assembly Language) [HERE](https://github.com/mytechnotalent/STM32F401CCUx_PA0ButtonHandler)
+## Fundamental Python PDF [HERE](https://github.com/mytechnotalent/Fundamental-Python/blob/main/Fundamental_Python_ALPHA.pdf)
+UNDER DEVELOPMENT
 
 <br>
 
 ## Python For Kids PDF [HERE](https://github.com/mytechnotalent/Python-For-Kids/blob/main/Python_For_Kids_01r.pdf)
-
-<br>
-
-## Ansible For Everyone PDF [HERE]()
-UNDER DEVELOPMENT
-
-<br>
-
-## Selenium For Everyone PDF [HERE](https://github.com/mytechnotalent/Selenium-For-Everyone/blob/main/Selenium_For_Everyone_r_01.pdf)
 
 <br>
 
@@ -1137,59 +1120,81 @@ In this bite we learn how to create a simple parsing algorithm to convert a stri
 
 -> Click [HERE](https://medium.com/@mytechnotalent/aarch-64-bytes-part-e-yet-another-upper-6dcb56bb7e91) to read the article on Medium.
 
-## ARTICLES ARE UNDER DEVELOPMENT
+<br>
+
+## ToyOS 
+
+## ToyOS Operating System
+ToyOS is a simple x86 OS that only accepts numeric values into the input stream and returns them to a standard out console.
+
+-> Click [HERE](https://github.com/mytechnotalent/ToyOS)
 
 <br>
 
-## Windows Hacking Course
+## Hacking Windows Course
 
-## Windows Hacking Course (Chapter 1 - Hello World)
+## Hacking Windows Course (Chapter 1 - Hello World)
 This chapter covers the basics of designing a very simple Windows Assembly Language message box program in pure Assembly for both x86 and x64 architectures.
 
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
 
-## Windows Hacking Course (Chapter 2: Debugging Hello World x86)
+## Hacking Windows Course (Chapter 2: Debugging Hello World x86)
 This chapter covers the dynamic reverse engineering analysis, debugging, of the Hello World app in x86 Assembly.
 
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
 
-## Windows Hacking Course (Chapter 3: Hacking Hello World x86)
+## Hacking Windows Course (Chapter 3: Hacking Hello World x86)
 This chapter covers the dynamic reverse engineering analysis, hacking, of the Hello World app in x86 Assembly.
 
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
 
-## Windows Hacking Course (Chapter 4: Debugging Hello World x64)
+## Hacking Windows Course (Chapter 4: Debugging Hello World x64)
 This chapter covers the dynamic reverse engineering analysis, debugging, of the Hello World app in x64 Assembly.
 
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
 
-## Windows Hacking Course (Chapter 5: Hacking Hello World x64)
+## Hacking Windows Course (Chapter 5: Hacking Hello World x64)
 This chapter covers the dynamic reverse engineering analysis, hacking, of the Hello World app in x64 Assembly.
 
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
 
-## Windows Hacking Course (Chapter 6: Directories)
+## Hacking Windows Course (Chapter 6: Directories)
 This chapter covers reviewing the Windows API CreateDirectoryW and RemoveDirectoryW functions in C.
 
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
 
-## Windows Hacking Course (Chapter 7: Debugging Directories x86)
+## Hacking Windows Course (Chapter 7: Debugging Directories x86)
 This chapter covers dynamic reverse engineering analysis, debugging, the Windows API CreateDirectoryW and RemoveDirectoryW functions in x86 Assembly.
 
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
 
-## Windows Hacking Course (Chapter 8: Hacking Directories x86)
+## Hacking Windows Course (Chapter 8: Hacking Directories x86)
 This chapter covers dynamic reverse engineering analysis, hacking, the Windows API CreateDirectoryW and RemoveDirectoryW functions in x86 Assembly.
 
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
 
-## Windows Hacking Course (Chapter 9: Debugging Directories x64)
+## Hacking Windows Course (Chapter 9: Debugging Directories x64)
 This chapter covers dynamic reverse engineering analysis, debugging, the Windows API CreateDirectoryW and RemoveDirectoryW functions in x64 Assembly.
 
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
 
-## Windows Hacking Course (Chapter 10: Hacking Directories x64)
+## Hacking Windows Course (Chapter 10: Hacking Directories x64)
 This chapter covers dynamic reverse engineering analysis, hacking, the Windows API CreateDirectoryW and RemoveDirectoryW functions in x64 Assembly.
+
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
+
+## Hacking Windows Course (Chapter 11: CopyFile)
+This chapter covers reviewing the Windows API CopyFileW function in C.
+
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
+
+## Hacking Windows Course (Chapter 12: Debugging CopyFile x86)
+This chapter covers dynamic reverse engineering analysis, debugging, the Windows API CopyFileW function in x86 Assembly.
+
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
+
+## Hacking Windows Course (Chapter 13: Hacking CopyFile x86)
+This chapter covers dynamic reverse engineering analysis, hacking, the Windows API CopyFileW function in x86 Assembly.
 
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
 
@@ -1251,73 +1256,152 @@ In this lesson we will show the state history of connections as a string of lett
 
 <br>
 
-## C++ Fundamentals Course
+## Fundamental Go Course
 
-## C++ Fundamentals Course (Chapter 1 - Hello World)
-In this lesson we will discuss the basics of C++ output.
+## Fundamental Go Course (Chapter 1 - "Hello World")
+This lesson will discuss the timeless classic of, "Hello World", and how strings work in Go.
 
--> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Fundamental%20C%2B%2B.pdf) to read the FREE pdf book.
+-> Click [HERE](https://github.com/mytechnotalent/Fundamental-Go/blob/main/Fundamental_Go_ALPHA.pdf) to read the FREE pdf book.
 
-## C++ Fundamentals Course (Chapter 2 - Variables, Constants, Arrays, Vectors, Statements, Operators, Strings)
-In this lesson we will discuss variables, constants, arrays, vectors, statements, operators and strings.
+## Fundamental Go Course (Chapter 2 - Debugging "Hello World")
+This lesson will discuss debugging the timeless classic of, "Hello World", and how strings work in Go.
 
--> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Fundamental%20C%2B%2B.pdf) to read the FREE pdf book.
+-> Click [HERE](https://github.com/mytechnotalent/Fundamental-Go/blob/main/Fundamental_Go_ALPHA.pdf) to read the FREE pdf book.
 
-## C++ Fundamentals Course (Chapter 3 - Program Flow)
-In this lesson we will discuss the basics of program flow.
+## Fundamental Go Course (Chapter 3 - Hacking "Hello World")
+This lesson will discuss hacking the timeless classic of, "Hello World", and how strings work in Go.
 
--> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Fundamental%20C%2B%2B.pdf) to read the FREE pdf book.
+-> Click [HERE](https://github.com/mytechnotalent/Fundamental-Go/blob/main/Fundamental_Go_ALPHA.pdf) to read the FREE pdf book.
 
-## C++ Fundamentals Course (Chapter 4 - Functions)
-In this lesson we will discuss functions.
+## Fundamental Go Course (Chapter 4: Post-Analysis "Hello World)"
+This lesson will discuss a completely post-analysis on the timeless classic of, "Hello World", and a deep-dive look into the Go code reverse engineering.
 
--> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Fundamental%20C%2B%2B.pdf) to read the FREE pdf book.
+-> Click [HERE](https://github.com/mytechnotalent/Fundamental-Go/blob/main/Fundamental_Go_ALPHA.pdf) to read the lesson in PDF format. <br>
 
-## C++ Fundamentals Course (Chapter 5 - Pointers)
-In this lesson we will discuss pointers.
+## Fundamental Go Course (Chapter 5: C Pass By Value)
+This lesson will discuss a simple C swap by value program where we create values in main, swap them in a function and check their values as they return.
 
--> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Fundamental%20C%2B%2B.pdf) to read the FREE pdf book.
+-> Click [HERE](https://github.com/mytechnotalent/Fundamental-Go/blob/main/Fundamental_Go_ALPHA.pdf) to read the lesson in PDF format. <br>
 
-## C++ Fundamentals Course (Chapter 6 - Input)
-In this lesson we will discuss proper input validation.
+## Fundamental Go Course (Chapter 6: Debugging C Pass By Value)
+This lesson will discuss debugging a simple C swap by value program where we create values in main, swap them in a function and check their values as they return.
 
--> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Fundamental%20C%2B%2B.pdf) to read the FREE pdf book.
+-> Click [HERE](https://github.com/mytechnotalent/Fundamental-Go/blob/main/Fundamental_Go_ALPHA.pdf) to read the lesson in PDF format. <br>
 
-## C++ Fundamentals Course (Chapter 7 - Classes)
-In this lesson we will discuss class basics.
-
--> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Fundamental%20C%2B%2B.pdf) to read the FREE pdf book.
+## BOOK IS UNDER DEVELOPMENT
 
 <br>
 
-## MicroPython Firmware Development Course
+## Fundamental Python Course
 
-## MicroPython Firmware Development Course (Chapter 1 - Building Micropython)
-This chapter covers how to build a MicroPython development environment.
+## Fundamental Python Course (Chapter 1 - Basic I/O)
+This lesson will discuss Python basic input and output.
 
--> Click [HERE](https://github.com/mytechnotalent/micropython-firmware-development/blob/main/MicroPython_Firmware_Development_5r1.pdf) to read the FREE pdf book.
+-> Click [HERE](https://github.com/mytechnotalent/Fundamental-Python/blob/main/Fundamental_Python_ALPHA.pdf) to read the FREE pdf book.
 
-## MicroPython Firmware Development Course (Chapter 2 - Basic I/O)
-This chapter covers how to handle basic input and output in MicroPython.
+## Fundamental Python Course (Chapter 2 - DataTypes & Numbers)
+This lesson will discuss Python datatypes and numbers.
 
--> Click [HERE](https://github.com/mytechnotalent/micropython-firmware-development/blob/main/MicroPython_Firmware_Development_5r1.pdf) to read the FREE pdf book.
+-> Click [HERE](https://github.com/mytechnotalent/Fundamental-Python/blob/main/Fundamental_Python_ALPHA.pdf) to read the FREE pdf book.
 
-## MicroPython Firmware Development Course (Chapter 3 - DataTypes & Numbers)
-This chapter covers how to handle datatypes and numbers t in MicroPython.
+## Fundamental Python Course (Chapter 3 - Conditional Logic)
+This lesson will discuss Python conditional logic.
 
--> Click [HERE](https://github.com/mytechnotalent/micropython-firmware-development/blob/main/MicroPython_Firmware_Development_5r1.pdf) to read the FREE pdf book.
+-> Click [HERE](https://github.com/mytechnotalent/Fundamental-Python/blob/main/Fundamental_Python_ALPHA.pdf) to read the FREE pdf book.
 
-## MicroPython Firmware Development Course (Chapter 4: Conditional Logic)
-This chapter covers conditional logic and application flow chart design in MicroPython.
+## Fundamental Python Course (Chapter 4 - Lists, Tuples, Dictionaries & Loops)
+This lesson will discuss Python lists, tuples, dictionaries & loops.
 
--> Click [HERE](https://github.com/mytechnotalent/micropython-firmware-development/blob/main/MicroPython_Firmware_Development_5r1.pdf) to read the FREE pdf book.
-
-## MicroPython Firmware Development Course (Chapter 5: Lists, Tuples, Dictionaries & Loops)
-This chapter covers lists, tuples, dictionaries and loops in MicroPython.
-
--> Click [HERE](https://github.com/mytechnotalent/micropython-firmware-development/blob/main/MicroPython_Firmware_Development_5r1.pdf) to read the FREE pdf book.
+-> Click [HERE](https://github.com/mytechnotalent/Fundamental-Python/blob/main/Fundamental_Python_ALPHA.pdf) to read the FREE pdf book.
 
 ## BOOK IS UNDER DEVELOPMENT
+
+<br>
+
+## Python For Kids Course
+
+## Python For Kids Course (Chapter 1 - Goals)
+This lesson will begin with the basic concepts of why kids should learn to program in Python.
+
+-> Click [HERE](https://github.com/mytechnotalent/Python-For-Kids/blob/main/Python_For_Kids_01r.pdf) to read the lesson in PDF format. <br>
+-> Click [HERE](https://youtu.be/eAkOAuHkroI) to watch the video on YouTube.
+
+## Python For Kids Course (Chapter 2 - "Hello World")
+This lesson will step-by-step code our first program to have our little microcontroller say hello to the world!
+
+-> Click [HERE](https://github.com/mytechnotalent/Python-For-Kids/blob/main/Python_For_Kids_01r.pdf) to read the lesson in PDF format. <br>
+-> Click [HERE](https://youtu.be/QnlBMgSZUzU) to watch the video on YouTube.
+
+## Python For Kids Course (Chapter 3 - FUN With Images)
+This lesson will step-by-step code a FUN image making program where our little microcontroller will make various faces to his new friend.
+
+-> Click [HERE](https://github.com/mytechnotalent/Python-For-Kids/blob/main/Python_For_Kids_01r.pdf) to read the lesson in PDF format. <br>
+-> Click [HERE](https://youtu.be/L6-R7LRj5ik) to watch the video on YouTube.
+
+## Python For Kids Course (Chapter 4 - FUN With Numbers)
+This lesson will step-by-step code a FUN program where we will work with numbers and learn about how to make variables with them. 
+
+-> Click [HERE](https://github.com/mytechnotalent/Python-For-Kids/blob/main/Python_For_Kids_01r.pdf) to read the lesson in PDF format. <br>
+-> Click [HERE](https://youtu.be/uSRpjvSyhC8) to watch the video on YouTube.
+
+## Python For Kids Course (Chapter 5 - FUN With Words)
+This lesson will step-by-step code a FUN program where we will work with words and learn about how to make variables with them. 
+
+-> Click [HERE](https://github.com/mytechnotalent/Python-For-Kids/blob/main/Python_For_Kids_01r.pdf) to read the lesson in PDF format. <br>
+-> Click [HERE](https://youtu.be/cMrzeprc3j4) to watch the video on YouTube.
+
+## Python For Kids Course (Chapter 6 - Fun With Word Lists)
+This lesson will step-by-step code a FUN program where we will work with word lists and learn about how to make variables with them. 
+
+-> Click [HERE](https://github.com/mytechnotalent/Python-For-Kids/blob/main/Python_For_Kids_01r.pdf) to read the lesson in PDF format. <br>
+-> Click [HERE](https://youtu.be/2cYZt0imQBk) to watch the video on YouTube.
+
+## Python For Kids Course (Chapter 7 - Fun With Music)
+This lesson will step-by-step code a FUN song making program where our little microcontroller will play various songs to his new friend. 
+
+-> Click [HERE](https://github.com/mytechnotalent/Python-For-Kids/blob/main/Python_For_Kids_01r.pdf) to read the lesson in PDF format. <br>
+-> Click [HERE](https://youtu.be/JMXXGRnR7fo) to watch the video on YouTube.
+
+## Python For Kids Course (Chapter 8 - Fun With Talking Robots)
+This lesson will step-by-step interact with a FUN talking robot where we can ask him questions and he will respond to us using his voice. 
+
+-> Click [HERE](https://github.com/mytechnotalent/Python-For-Kids/blob/main/Python_For_Kids_01r.pdf) to read the lesson in PDF format. <br>
+-> Click [HERE](https://youtu.be/lBEWy5M4fuI) to watch the video on YouTube.
+
+## Python For Kids Course (Chapter 9 - Basic I/O)
+This lesson will discuss MicroPython basic input and output for the micro:bit.
+
+-> Click [HERE](https://github.com/mytechnotalent/Python-For-Kids/blob/main/Python_For_Kids_01r.pdf) to read the lesson in PDF format. <br>
+
+## Python For Kids Course (Chapter 10 - DataTypes & Numbers)
+This lesson will discuss MicroPython datatypes and numbers for the micro:bit.
+
+-> Click [HERE](https://github.com/mytechnotalent/Python-For-Kids/blob/main/Python_For_Kids_01r.pdf) to read the lesson in PDF format. <br>
+
+## Python For Kids Course (Chapter 11 - Conditional Logic)
+This lesson will discuss MicroPython conditional logic and application flow chart design for the micro:bit.
+
+-> Click [HERE](https://github.com/mytechnotalent/Python-For-Kids/blob/main/Python_For_Kids_01r.pdf) to read the lesson in PDF format. <br>
+
+## Python For Kids Course (Chapter 12 - Lists, Tuples, Dictionaries & Loops)
+This lesson will discuss MicroPython lists, tuples, dictionaries and loops for the micro:bit.
+
+-> Click [HERE](https://github.com/mytechnotalent/Python-For-Kids/blob/main/Python_For_Kids_01r.pdf) to read the lesson in PDF format. <br>
+
+## Python For Kids Course (Chapter 13 - Functions)
+This lesson will discuss MicroPython functions for the micro:bit.
+
+-> Click [HERE](https://github.com/mytechnotalent/Python-For-Kids/blob/main/Python_For_Kids_01r.pdf) to read the lesson in PDF format. <br>
+
+## Python For Kids Course (Chapter 14 - Classes)
+This lesson will discuss MicroPython classes for the micro:bit.
+
+-> Click [HERE](https://github.com/mytechnotalent/Python-For-Kids/blob/main/Python_For_Kids_01r.pdf) to read the lesson in PDF format. <br>
+
+## Python For Kids Course (Chapter 15 - Unittest)
+This lesson will discuss MicroPython unittest for the micro:bit.
+
+-> Click [HERE](https://github.com/mytechnotalent/Python-For-Kids/blob/main/Python_For_Kids_01r.pdf) to read the lesson in PDF format. <br>
 
 <br>
 
