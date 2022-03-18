@@ -9,6 +9,11 @@ A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM 
 
 <br>
 
+## traffic-generator [HERE](https://github.com/mytechnotalent/traffic-generator)
+## turbo-scanner [HERE](https://github.com/mytechnotalent/turbo-scanner)
+
+<br><br>
+
 ![image](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/DC540%20Angels%20Of%20Death.png?raw=true)
 
 ## DC540 Hacking Challenge 0x00001 [HERE](https://github.com/mytechnotalent/dc540-0x00001) ON GITHUB
@@ -1285,6 +1290,16 @@ This lesson will discuss a simple C swap by value program where we create values
 
 ## Fundamental Go Course (Chapter 6: Debugging C Pass By Value)
 This lesson will discuss debugging a simple C swap by value program where we create values in main, swap them in a function and check their values as they return.
+
+-> Click [HERE](https://github.com/mytechnotalent/Fundamental-Go/blob/main/Fundamental_Go_ALPHA.pdf) to read the lesson in PDF format. <br>
+
+## Fundamental Go Course (Chapter 7: C Pass By Reference)
+This lesson will discuss a simple C swap by reference program where we create values in main, swap them in a function and check their values as they return.
+
+-> Click [HERE](https://github.com/mytechnotalent/Fundamental-Go/blob/main/Fundamental_Go_ALPHA.pdf) to read the lesson in PDF format. <br>
+
+## Fundamental Go Course (Chapter 8: Debugging C Pass By Reference)
+This lesson will discuss debugging a simple C swap by reference program where we create values in main, swap them in a function and check their values as they return.
 
 -> Click [HERE](https://github.com/mytechnotalent/Fundamental-Go/blob/main/Fundamental_Go_ALPHA.pdf) to read the lesson in PDF format. <br>
 
