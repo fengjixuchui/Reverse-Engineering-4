@@ -57,16 +57,6 @@ UNDER DEVELOPMENT
 
 <br>
 
-## Fundamental Go PDF [HERE](https://github.com/mytechnotalent/Fundamental-Go/blob/main/Fundamental_Go_ALPHA.pdf)
-UNDER DEVELOPMENT
-
-<br>
-
-## Fundamental Python PDF [HERE](https://github.com/mytechnotalent/Fundamental-Python/blob/main/Fundamental_Python_ALPHA.pdf)
-UNDER DEVELOPMENT
-
-<br>
-
 ## Python For Kids PDF [HERE](https://github.com/mytechnotalent/Python-For-Kids/blob/main/Python_For_Kids_01r.pdf)
 
 <br>
@@ -1208,6 +1198,36 @@ This chapter covers dynamic reverse engineering analysis, debugging, the Windows
 
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
 
+## Hacking Windows Course (Chapter 15: Hacking CopyFile x86)
+This chapter covers dynamic reverse engineering analysis, hacking, the Windows API CopyFileW function in x64 Assembly.
+
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
+
+## Hacking Windows Course (Chapter 16: MoveFile)
+This chapter covers reviewing the Windows API MoveFileW function in C.
+
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
+
+## Hacking Windows Course (Chapter 17: Debugging MoveFile x86)
+This chapter covers dynamic reverse engineering analysis, debugging, the Windows API MoveFileW function in x86 Assembly.
+
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
+
+## Hacking Windows Course (Chapter 18: Hacking MoveFile x86)
+This chapter covers dynamic reverse engineering analysis, hacking, the Windows API MoveFileW function in x86 Assembly.
+
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
+
+## Hacking Windows Course (Chapter 19: Debugging MoveFile x64)
+This chapter covers dynamic reverse engineering analysis, debugging, the Windows API MoveFileW function in x64 Assembly.
+
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
+
+## Hacking Windows Course (Chapter 20: Hacking MoveFile x64)
+This chapter covers dynamic reverse engineering analysis, hacking, the Windows API MoveFileW function in x64 Assembly.
+
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
+
 ## BOOK IS UNDER DEVELOPMENT
 
 <br>
@@ -1263,78 +1283,6 @@ In this lesson we will show whether there any web servers operating on non-stand
 In this lesson we will show the state history of connections as a string of letters.
 
 -> Click [HERE](https://medium.com/@mytechnotalent/zeek-network-security-monitor-tutorial-part-10-conn-log-8-1de2cf970b7a) to read the article on Medium.
-
-<br>
-
-## Fundamental Go Course
-
-## Fundamental Go Course (Chapter 1 - "Hello World")
-This lesson will discuss the timeless classic of, "Hello World", and how strings work in Go.
-
--> Click [HERE](https://github.com/mytechnotalent/Fundamental-Go/blob/main/Fundamental_Go_ALPHA.pdf) to read the FREE pdf book.
-
-## Fundamental Go Course (Chapter 2 - Debugging "Hello World")
-This lesson will discuss debugging the timeless classic of, "Hello World", and how strings work in Go.
-
--> Click [HERE](https://github.com/mytechnotalent/Fundamental-Go/blob/main/Fundamental_Go_ALPHA.pdf) to read the FREE pdf book.
-
-## Fundamental Go Course (Chapter 3 - Hacking "Hello World")
-This lesson will discuss hacking the timeless classic of, "Hello World", and how strings work in Go.
-
--> Click [HERE](https://github.com/mytechnotalent/Fundamental-Go/blob/main/Fundamental_Go_ALPHA.pdf) to read the FREE pdf book.
-
-## Fundamental Go Course (Chapter 4: Post-Analysis "Hello World)"
-This lesson will discuss a completely post-analysis on the timeless classic of, "Hello World", and a deep-dive look into the Go code reverse engineering.
-
--> Click [HERE](https://github.com/mytechnotalent/Fundamental-Go/blob/main/Fundamental_Go_ALPHA.pdf) to read the lesson in PDF format. <br>
-
-## Fundamental Go Course (Chapter 5: C Pass By Value)
-This lesson will discuss a simple C swap by value program where we create values in main, swap them in a function and check their values as they return.
-
--> Click [HERE](https://github.com/mytechnotalent/Fundamental-Go/blob/main/Fundamental_Go_ALPHA.pdf) to read the lesson in PDF format. <br>
-
-## Fundamental Go Course (Chapter 6: Debugging C Pass By Value)
-This lesson will discuss debugging a simple C swap by value program where we create values in main, swap them in a function and check their values as they return.
-
--> Click [HERE](https://github.com/mytechnotalent/Fundamental-Go/blob/main/Fundamental_Go_ALPHA.pdf) to read the lesson in PDF format. <br>
-
-## Fundamental Go Course (Chapter 7: C Pass By Reference)
-This lesson will discuss a simple C swap by reference program where we create values in main, swap them in a function and check their values as they return.
-
--> Click [HERE](https://github.com/mytechnotalent/Fundamental-Go/blob/main/Fundamental_Go_ALPHA.pdf) to read the lesson in PDF format. <br>
-
-## Fundamental Go Course (Chapter 8: Debugging C Pass By Reference)
-This lesson will discuss debugging a simple C swap by reference program where we create values in main, swap them in a function and check their values as they return.
-
--> Click [HERE](https://github.com/mytechnotalent/Fundamental-Go/blob/main/Fundamental_Go_ALPHA.pdf) to read the lesson in PDF format. <br>
-
-## BOOK IS UNDER DEVELOPMENT
-
-<br>
-
-## Fundamental Python Course
-
-## Fundamental Python Course (Chapter 1 - Basic I/O)
-This lesson will discuss Python basic input and output.
-
--> Click [HERE](https://github.com/mytechnotalent/Fundamental-Python/blob/main/Fundamental_Python_ALPHA.pdf) to read the FREE pdf book.
-
-## Fundamental Python Course (Chapter 2 - DataTypes & Numbers)
-This lesson will discuss Python datatypes and numbers.
-
--> Click [HERE](https://github.com/mytechnotalent/Fundamental-Python/blob/main/Fundamental_Python_ALPHA.pdf) to read the FREE pdf book.
-
-## Fundamental Python Course (Chapter 3 - Conditional Logic)
-This lesson will discuss Python conditional logic.
-
--> Click [HERE](https://github.com/mytechnotalent/Fundamental-Python/blob/main/Fundamental_Python_ALPHA.pdf) to read the FREE pdf book.
-
-## Fundamental Python Course (Chapter 4 - Lists, Tuples, Dictionaries & Loops)
-This lesson will discuss Python lists, tuples, dictionaries & loops.
-
--> Click [HERE](https://github.com/mytechnotalent/Fundamental-Python/blob/main/Fundamental_Python_ALPHA.pdf) to read the FREE pdf book.
-
-## BOOK IS UNDER DEVELOPMENT
 
 <br>
 
