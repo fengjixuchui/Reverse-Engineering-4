@@ -1,6 +1,5 @@
-![image](https://github.com/mytechnotalent/Reverse-Engineering-Tutorial/blob/main/Reverse%20Engineering%20Tutorial.jpg?raw=true)
+![image](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Reverse%20Engineering.png?raw=true)
 
-# Reverse Engineering For Everyone!
 A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
 
 <br>
@@ -25,11 +24,6 @@ A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM 
 
 <br>
 
-## COURSE PROMOTIONAL VIDEO
-### WATCH NOW [HERE](https://youtu.be/Yz0zFsp0qzE) ON YOUTUBE
-
-<br>
-
 ## Reverse Engineering E-BOOK [HERE](https://0xinfection.github.io/reversing/)
 ## Reverse Engineering PDF [HERE](https://0xinfection.github.io/reversing/reversing-for-everyone.pdf)
 Assembled by @0xInfection (Twitter)
@@ -45,6 +39,10 @@ Assembled by @0xInfection (Twitter)
 <br>
 
 ## ToyOS [HERE](https://github.com/mytechnotalent/ToyOS)
+
+<br>
+
+## TOR Everything [HERE](https://github.com/mytechnotalent/TOR-Everything)
 
 <br>
 
@@ -1230,6 +1228,26 @@ This chapter covers dynamic reverse engineering analysis, hacking, the Windows A
 
 ## Hacking Windows Course (Chapter 21: CreateFile)
 This chapter covers reviewing the Windows API CreateFileW function in C.
+
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
+
+## Hacking Windows Course (Chapter 22: Debugging CreateFile x86)
+This chapter covers dynamic reverse engineering analysis, debugging, the Windows API CreateFileW function in x86 Assembly.
+
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
+
+## Hacking Windows Course (Chapter 23: Hacking CreateFile x86)
+This chapter covers dynamic reverse engineering analysis, hacking, the Windows API CreateFileW function in x86 Assembly.
+
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
+
+## Hacking Windows Course (Chapter 24: Debugging CreateFile x64)
+This chapter covers dynamic reverse engineering analysis, hacking, the Windows API CreateFileW function in x64 Assembly.
+
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
+
+## Hacking Windows Course (Chapter 25: Hacking CreateFile x64)
+This chapter covers dynamic reverse engineering analysis, hacking, the Windows API CreateFileW function in x64 Assembly.
 
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
 
