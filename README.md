@@ -15,18 +15,22 @@ A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM 
 
 ![image](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/DC540%20Angels%20Of%20Death.png?raw=true)
 
-## DC540 Hacking Challenge 0x00001 [HERE](https://github.com/mytechnotalent/dc540-0x00001) ON GITHUB
-## DC540 Hacking Challenge 0x00002 [MicroPython CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00002) ON GITHUB
-## DC540 Hacking Challenge 0x00003 [C CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00003) ON GITHUB
-## DC540 Hacking Challenge 0x00004 [C CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00004) ON GITHUB
-## DC540 Hacking Challenge 0x00005a [HERE](https://github.com/mytechnotalent/dc540-0x00005a) ON GITHUB
-## DC540 Hacking Challenge 0x00005b [Assembler CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00005b) ON GITHUB
+## DC540 Hacking Challenge 0x00001 [HERE](https://github.com/mytechnotalent/dc540-0x00001)
+## DC540 Hacking Challenge 0x00002 [MicroPython CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00002)
+## DC540 Hacking Challenge 0x00003 [C CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00003)
+## DC540 Hacking Challenge 0x00004 [C CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00004)
+## DC540 Hacking Challenge 0x00005a [HERE](https://github.com/mytechnotalent/dc540-0x00005a)
+## DC540 Hacking Challenge 0x00005b [Assembler CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00005b)
 
 <br>
 
 ## Reverse Engineering E-BOOK [HERE](https://0xinfection.github.io/reversing/)
 ## Reverse Engineering PDF [HERE](https://0xinfection.github.io/reversing/reversing-for-everyone.pdf)
 Assembled by @0xInfection (Twitter)
+
+<br>
+
+## Pico MicroPython Debug Template [HERE](https://github.com/mytechnotalent/pico-micropython-debug-template)
 
 <br>
 
@@ -52,6 +56,10 @@ UNDER DEVELOPMENT
 <br>
 
 ## Zeek Network Security Monitor [HERE](https://github.com/mytechnotalent/Zeek-Network-Security-Monitor)
+
+<br>
+
+## Fundamental C++ PDF [HERE](https://github.com/mytechnotalent/Fundamental-CPP/blob/main/Fundamental%20C%2B%2B.pdf)
 
 <br>
 
@@ -1129,169 +1137,152 @@ ToyOS is a simple x86 OS that only accepts numeric values into the input stream 
 ## Hacking Windows Course (Chapter 1 - Hello World)
 This chapter covers the basics of designing a very simple Windows Assembly Language message box program in pure Assembly for both x86 and x64 architectures.
 
--> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows.pdf) to read the FREE pdf book.
 
 ## Hacking Windows Course (Chapter 2: Debugging Hello World x86)
 This chapter covers the dynamic reverse engineering analysis, debugging, of the Hello World app in x86 Assembly.
 
--> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows.pdf) to read the FREE pdf book.
 
 ## Hacking Windows Course (Chapter 3: Hacking Hello World x86)
 This chapter covers the dynamic reverse engineering analysis, hacking, of the Hello World app in x86 Assembly.
 
--> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows.pdf) to read the FREE pdf book.
 
 ## Hacking Windows Course (Chapter 4: Debugging Hello World x64)
 This chapter covers the dynamic reverse engineering analysis, debugging, of the Hello World app in x64 Assembly.
 
--> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows.pdf) to read the FREE pdf book.
 
 ## Hacking Windows Course (Chapter 5: Hacking Hello World x64)
 This chapter covers the dynamic reverse engineering analysis, hacking, of the Hello World app in x64 Assembly.
 
--> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows.pdf) to read the FREE pdf book.
 
 ## Hacking Windows Course (Chapter 6: Directories)
 This chapter covers reviewing the Windows API CreateDirectoryW and RemoveDirectoryW functions in C.
 
--> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows.pdf) to read the FREE pdf book.
 
 ## Hacking Windows Course (Chapter 7: Debugging Directories x86)
 This chapter covers dynamic reverse engineering analysis, debugging, the Windows API CreateDirectoryW and RemoveDirectoryW functions in x86 Assembly.
 
--> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows.pdf) to read the FREE pdf book.
 
 ## Hacking Windows Course (Chapter 8: Hacking Directories x86)
 This chapter covers dynamic reverse engineering analysis, hacking, the Windows API CreateDirectoryW and RemoveDirectoryW functions in x86 Assembly.
 
--> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows.pdf) to read the FREE pdf book.
 
 ## Hacking Windows Course (Chapter 9: Debugging Directories x64)
 This chapter covers dynamic reverse engineering analysis, debugging, the Windows API CreateDirectoryW and RemoveDirectoryW functions in x64 Assembly.
 
--> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows.pdf) to read the FREE pdf book.
 
 ## Hacking Windows Course (Chapter 10: Hacking Directories x64)
 This chapter covers dynamic reverse engineering analysis, hacking, the Windows API CreateDirectoryW and RemoveDirectoryW functions in x64 Assembly.
 
--> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows.pdf) to read the FREE pdf book.
 
 ## Hacking Windows Course (Chapter 11: CopyFile)
 This chapter covers reviewing the Windows API CopyFileW function in C.
 
--> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows.pdf) to read the FREE pdf book.
 
 ## Hacking Windows Course (Chapter 12: Debugging CopyFile x86)
 This chapter covers dynamic reverse engineering analysis, debugging, the Windows API CopyFileW function in x86 Assembly.
 
--> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows.pdf) to read the FREE pdf book.
 
 ## Hacking Windows Course (Chapter 13: Hacking CopyFile x86)
 This chapter covers dynamic reverse engineering analysis, hacking, the Windows API CopyFileW function in x86 Assembly.
 
--> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows.pdf) to read the FREE pdf book.
 
 ## Hacking Windows Course (Chapter 14: Debugging CopyFile x64)
 This chapter covers dynamic reverse engineering analysis, debugging, the Windows API CopyFileW function in x64 Assembly.
 
--> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows.pdf) to read the FREE pdf book.
 
 ## Hacking Windows Course (Chapter 15: Hacking CopyFile x86)
 This chapter covers dynamic reverse engineering analysis, hacking, the Windows API CopyFileW function in x64 Assembly.
 
--> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows.pdf) to read the FREE pdf book.
 
 ## Hacking Windows Course (Chapter 16: MoveFile)
 This chapter covers reviewing the Windows API MoveFileW function in C.
 
--> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows.pdf) to read the FREE pdf book.
 
 ## Hacking Windows Course (Chapter 17: Debugging MoveFile x86)
 This chapter covers dynamic reverse engineering analysis, debugging, the Windows API MoveFileW function in x86 Assembly.
 
--> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows.pdf) to read the FREE pdf book.
 
 ## Hacking Windows Course (Chapter 18: Hacking MoveFile x86)
 This chapter covers dynamic reverse engineering analysis, hacking, the Windows API MoveFileW function in x86 Assembly.
 
--> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows.pdf) to read the FREE pdf book.
 
 ## Hacking Windows Course (Chapter 19: Debugging MoveFile x64)
 This chapter covers dynamic reverse engineering analysis, debugging, the Windows API MoveFileW function in x64 Assembly.
 
--> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows.pdf) to read the FREE pdf book.
 
 ## Hacking Windows Course (Chapter 20: Hacking MoveFile x64)
 This chapter covers dynamic reverse engineering analysis, hacking, the Windows API MoveFileW function in x64 Assembly.
 
--> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows.pdf) to read the FREE pdf book.
 
 ## Hacking Windows Course (Chapter 21: CreateFile)
 This chapter covers reviewing the Windows API CreateFileW function in C.
 
--> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows.pdf) to read the FREE pdf book.
 
 ## Hacking Windows Course (Chapter 22: Debugging CreateFile x86)
 This chapter covers dynamic reverse engineering analysis, debugging, the Windows API CreateFileW function in x86 Assembly.
 
--> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows.pdf) to read the FREE pdf book.
 
 ## Hacking Windows Course (Chapter 23: Hacking CreateFile x86)
 This chapter covers dynamic reverse engineering analysis, hacking, the Windows API CreateFileW function in x86 Assembly.
 
--> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows.pdf) to read the FREE pdf book.
 
 ## Hacking Windows Course (Chapter 24: Debugging CreateFile x64)
 This chapter covers dynamic reverse engineering analysis, hacking, the Windows API CreateFileW function in x64 Assembly.
 
--> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows.pdf) to read the FREE pdf book.
 
 ## Hacking Windows Course (Chapter 25: Hacking CreateFile x64)
 This chapter covers dynamic reverse engineering analysis, hacking, the Windows API CreateFileW function in x64 Assembly.
 
--> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows.pdf) to read the FREE pdf book.
 
 ##  Hacking Windows Course (Chapter 26: WriteFile)
 This chapter covers reviewing the Windows API WriteFile function in C.
 
--> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows.pdf) to read the FREE pdf book.
 
 ## Hacking Windows Course (Chapter 27: Debugging WriteFile x86)
 This chapter covers dynamic reverse engineering analysis, debugging, the Windows API WriteFile function in x86 Assembly.
 
--> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows.pdf) to read the FREE pdf book.
 
 ## Hacking Windows Course (Chapter 28: Hacking WriteFile x86)
 This chapter covers dynamic reverse engineering analysis, hacking, the Windows API WriteFile function in x86 Assembly.
 
--> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows.pdf) to read the FREE pdf book.
 
 ## Hacking Windows Course (Chapter 29: Debugging WriteFile x64)
 This chapter covers dynamic reverse engineering analysis, debugging, the Windows API WriteFile function in x64 Assembly.
 
--> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows.pdf) to read the FREE pdf book.
 
 ## Hacking Windows Course (Chapter 30: Hacking WriteFile x64)
 This chapter covers dynamic reverse engineering analysis, hacking, the Windows API WriteFile function in x64 Assembly.
 
--> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
-
-## Hacking Windows Course (Chapter 31: WriteFile)
-This chapter covers reviewing the Windows API ReadFile function in C.
-
--> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
-
-## Hacking Windows Course (Chapter 32: Debugging ReadFile x86)
-This chapter covers dynamic reverse engineering analysis, debugging, the Windows API ReadFile function in x86 Assembly.
-
--> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
-
-## Hacking Windows Course (Chapter 33: Hacking ReadFile x86)
-This chapter covers dynamic reverse engineering analysis, hacking, the Windows API ReadFile function in x86 Assembly.
-
--> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
-
-## BOOK IS UNDER DEVELOPMENT
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows.pdf) to read the FREE pdf book.
 
 <br>
 
@@ -1346,6 +1337,45 @@ In this lesson we will show whether there any web servers operating on non-stand
 In this lesson we will show the state history of connections as a string of letters.
 
 -> Click [HERE](https://medium.com/@mytechnotalent/zeek-network-security-monitor-tutorial-part-10-conn-log-8-1de2cf970b7a) to read the article on Medium.
+
+<br>
+
+## Fundamental C++ Course
+
+## Fundamental C++ Course (Chapter 1 - Hello World)
+In this lesson we will discuss the basics of C++ output.
+
+-> Click [HERE](https://github.com/mytechnotalent/Fundamental-CPP/blob/main/Fundamental%20C%2B%2B.pdf) to read the FREE pdf book.
+
+## Fundamental C++ Course (Chapter 2 - Variables, Constants, Arrays, Vectors, Statements, Operators, Strings)
+In this lesson we will discuss variables, constants, arrays, vectors, statements, operators and strings.
+
+-> Click [HERE](https://github.com/mytechnotalent/Fundamental-CPP/blob/main/Fundamental%20C%2B%2B.pdf) to read the FREE pdf book.
+
+## Fundamental C++ Course (Chapter 3 - Program Flow)
+In this lesson we will discuss the basics of program flow.
+
+-> Click [HERE](https://github.com/mytechnotalent/Fundamental-CPP/blob/main/Fundamental%20C%2B%2B.pdf) to read the FREE pdf book.
+
+## Fundamental C++ Course (Chapter 4 - Functions)
+In this lesson we will discuss functions.
+
+-> Click [HERE](https://github.com/mytechnotalent/Fundamental-CPP/blob/main/Fundamental%20C%2B%2B.pdf) to read the FREE pdf book.
+
+## Fundamental C++ Course (Chapter 5 - Pointers)
+In this lesson we will discuss pointers.
+
+-> Click [HERE](https://github.com/mytechnotalent/Fundamental-CPP/blob/main/Fundamental%20C%2B%2B.pdf) to read the FREE pdf book.
+
+## Fundamental C++ Course (Chapter 6 - Input)
+In this lesson we will discuss proper input validation.
+
+-> Click [HERE](https://github.com/mytechnotalent/Fundamental-CPP/blob/main/Fundamental%20C%2B%2B.pdf) to read the FREE pdf book.
+
+## Fundamental C++ Course (Chapter 7 - Classes)
+In this lesson we will discuss class basics.
+
+-> Click [HERE](https://github.com/mytechnotalent/Fundamental-CPP/blob/main/Fundamental%20C%2B%2B.pdf) to read the FREE pdf book.
 
 <br>
 
