@@ -34,6 +34,14 @@ Assembled by @0xInfection (Twitter)
 
 <br>
 
+## C Pico Project Template [HERE](https://github.com/mytechnotalent/c-pico-project-template)
+
+<br>
+
+## MicroPython Pico Project Template [HERE](https://github.com/mytechnotalent/mp-pico-project-template)
+
+<br>
+
 ## STEM Reverse Engineering Demo [HERE](https://github.com/mytechnotalent/micro-bit-Reverse-Engineering)
 
 <br>
@@ -50,8 +58,11 @@ Assembled by @0xInfection (Twitter)
 
 <br>
 
-## Hacking Windows E-BOOK [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf)
-UNDER DEVELOPMENT
+## Hacking Windows E-BOOK [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows.pdf)
+
+<br>
+
+## Go Hacking E-BOOK [HERE](https://github.com/mytechnotalent/Go-Hacking/blob/main/Go%20Hacking.pdf)
 
 <br>
 
@@ -1283,6 +1294,37 @@ This chapter covers dynamic reverse engineering analysis, debugging, the Windows
 This chapter covers dynamic reverse engineering analysis, hacking, the Windows API WriteFile function in x64 Assembly.
 
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows.pdf) to read the FREE pdf book.
+
+<br>
+
+## Go Hacking Course
+
+## Go Hacking Course (Chapter 1: Hello Distributed System World)
+This chapter covers the basics of setting up a dev environment and basic hello world style Go program for the x64 architecture.
+
+-> Click [HERE](https://github.com/mytechnotalent/Go-Hacking/blob/main/Go%20Hacking.pdf) to read the FREE pdf book.
+
+## Go Hacking Course (Chapter 2: Debugging Hello Distributed System World)
+This chapter covers debugging of the basic hello world style Go program for the x64 architecture.
+
+-> Click [HERE](https://github.com/mytechnotalent/Go-Hacking/blob/main/Go%20Hacking.pdf) to read the FREE pdf book.
+
+## Go Hacking Course (Chapter 3: Hacking Hello Distributed System World)
+This chapter covers hacking of the basic hello world style Go program for the x64 architecture.
+
+-> Click [HERE](https://github.com/mytechnotalent/Go-Hacking/blob/main/Go%20Hacking.pdf) to read the FREE pdf book.
+
+## Go Hacking Course (Chapter 4: Primitive Types)
+This chapter covers Golang primitive types for the x64 architecture.
+
+-> Click [HERE](https://github.com/mytechnotalent/Go-Hacking/blob/main/Go%20Hacking.pdf) to read the FREE pdf book.
+
+## Go Hacking Course (Chapter 5: Debugging Primitive Types)
+This chapter covers Golang debugging of the primitive types for the x64 architecture.
+
+-> Click [HERE](https://github.com/mytechnotalent/Go-Hacking/blob/main/Go%20Hacking.pdf) to read the FREE pdf book.
+
+IN DEVELOPMENT...  MORE TO COME SOON!!!
 
 <br>
 
