@@ -1,28 +1,37 @@
-<img src="https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Reverse%20Engineering%20Tutorial.gif?raw=true" width="400">
+<img src="https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Reverse%20Engineering.png?raw=true">
 
 A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
 
 <br>
 
 ## Join DC540 Discord [HERE](https://discord.gg/TC9V9RCr5U)
+## DC540 Chakra Badge [VIDEO](https://youtu.be/tk5x3JOPE9s) [![WATCH THE VIDEO](https://img.youtube.com/vi/tk5x3JOPE9s/maxresdefault.jpg)](https://youtu.be/tk5x3JOPE9s)
 
 <br>
 
-<img src="https://github.com/mytechnotalent/IoT/blob/main/IoT.png?raw=true" width="400">
-
-## FEATURED
-## IoT [HERE](https://github.com/mytechnotalent/IoT)
-## Turbo Scanner [HERE](https://github.com/mytechnotalent/turbo-scanner)
-## Turbo Attack [HERE](https://github.com/mytechnotalent/turbo-attack)
-
-<br>
-
+## Book
 ## Reverse Engineering E-BOOK [HERE](https://0xinfection.github.io/reversing/)
 ## Reverse Engineering PDF [HERE](https://0xinfection.github.io/reversing/reversing-for-everyone.pdf)
 Assembled by @0xInfection (Twitter)
 
 <br>
 
+## Tools
+## Turbo Scanner [HERE](https://github.com/mytechnotalent/turbo-scanner)
+## Turbo Attack [HERE](https://github.com/mytechnotalent/turbo-attack)
+
+<br>
+
+## Drivers
+## STM32F4 Persistent Flash Driver [HERE](https://github.com/mytechnotalent/STM32F4_Persistent_Flash_Driver)
+## STM32F4 Button Interrupt Driver [HERE](https://github.com/mytechnotalent/STM32F4_Button_Interrupt_Driver)
+## STM32F4 SSD1306 Driver [HERE](https://github.com/mytechnotalent/STM32F4_SSD1306_Driver)
+## STM32F4 LoRa UART Driver [HERE](https://github.com/mytechnotalent/STM32F4_LoRa_UART_Driver)
+## Pico WS2812 Driver [HERE](https://github.com/mytechnotalent/Pico_WS2812_Driver)
+
+<br>
+
+## CTF's
 ## DC540 Hacking Challenge 0x00001 [HERE](https://github.com/mytechnotalent/dc540-0x00001)
 ## DC540 Hacking Challenge 0x00002 [MicroPython CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00002)
 ## DC540 Hacking Challenge 0x00003 [C CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00003)
@@ -818,17 +827,17 @@ This tutorial will discuss more x64 assembly.
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
 ## Lesson 154: x64 Course (Part 34 - x64 C++ 1 Code [Part 1])
-This tutorial will discuss c++ code as it relates to 64-bit assembly.
+This tutorial will discuss C++ code as it relates to 64-bit assembly.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
 ## Lesson 155: x64 Course (Part 35 - x64 C++ 2 Debug [Part 2])
-This tutorial will discuss more c++ code as it relates to 64-bit assembly.
+This tutorial will discuss more C++ code as it relates to 64-bit assembly.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
 ## Lesson 156: x64 Course (Part 36 - x64 C++ 3 Hacking [Part 3])
-This tutorial will discuss more c++ code as it relates to 64-bit assembly.
+This tutorial will discuss more C++ code as it relates to 64-bit assembly.
 
 -> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
@@ -1313,32 +1322,62 @@ This chapter covers hacking the basic hello world style Rust program for the x64
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-Rust/blob/main/Hacking%20Rust.pdf) to read the FREE pdf book.
 
 ## Hacking Rust Course (Chapter 4: Scalar Data Types)
-This chapter covers scalar data types Rust program for the x64 architecture.
+This chapter covers scalar data types within a Rust program for the x64 architecture.
 
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-Rust/blob/main/Hacking%20Rust.pdf) to read the FREE pdf book.
 
 ## Hacking Rust Course (Chapter 5: Debugging Scalar Data Types)
-This chapter covers debugging scalar data types Rust program for the x64 architecture.
+This chapter covers debugging scalar data types within a Rust program for the x64 architecture.
 
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-Rust/blob/main/Hacking%20Rust.pdf) to read the FREE pdf book.
 
 ## Hacking Rust Course (Chapter 6: Hacking Scalar Data Types)
-This chapter covers hacking scalar data types Rust program for the x64 architecture.
+This chapter covers hacking scalar data types within a Rust program for the x64 architecture.
 
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-Rust/blob/main/Hacking%20Rust.pdf) to read the FREE pdf book.
 
 ## Hacking Rust Course (Chapter 7: Compound Data Types)
-This chapter covers compound data types Rust program for the x64 architecture.
+This chapter covers compound data types within a Rust program for the x64 architecture.
 
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-Rust/blob/main/Hacking%20Rust.pdf) to read the FREE pdf book.
 
 ## Hacking Rust Course (Chapter 8: Debugging Compound Data Types)
-This chapter covers debugging compound data types Rust program for the x64 architecture.
+This chapter covers debugging compound data types within a Rust program for the x64 architecture.
 
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-Rust/blob/main/Hacking%20Rust.pdf) to read the FREE pdf book.
 
 ## Hacking Rust Course (Chapter 9: Hacking Compound Data Types)
-This chapter covers hacking compound data types Rust program for the x64 architecture.
+This chapter covers hacking compound data types within a Rust program for the x64 architecture.
+
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Rust/blob/main/Hacking%20Rust.pdf) to read the FREE pdf book.
+
+## Hacking Rust Course (Chapter 10: Functions)
+This chapter covers functions within a Rust program for the x64 architecture.
+
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Rust/blob/main/Hacking%20Rust.pdf) to read the FREE pdf book.
+
+## Hacking Rust Course (Chapter 11: Debugging Functions)
+This chapter covers debugging functions within a Rust program for the x64 architecture.
+
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Rust/blob/main/Hacking%20Rust.pdf) to read the FREE pdf book.
+
+## Hacking Rust Course (Chapter 12: Hacking Functions)
+This chapter covers hacking functions within a Rust program for the x64 architecture.
+
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Rust/blob/main/Hacking%20Rust.pdf) to read the FREE pdf book.
+
+## Hacking Rust Course (Chapter 13: Control Flow)
+This chapter covers control flow within a Rust program for the x64 architecture.
+
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Rust/blob/main/Hacking%20Rust.pdf) to read the FREE pdf book.
+
+## Hacking Rust Course (Chapter 14: Debugging Control Flow)
+This chapter covers debugging control flow within a Rust program for the x64 architecture.
+
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Rust/blob/main/Hacking%20Rust.pdf) to read the FREE pdf book.
+
+## Hacking Rust Course (Chapter 15: Hacking Control Flow)
+This chapter covers hacking control flow within a Rust program for the x64 architecture.
 
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-Rust/blob/main/Hacking%20Rust.pdf) to read the FREE pdf book.
 
@@ -1347,10 +1386,6 @@ IN DEVELOPMENT...  MORE TO COME SOON!!!
 <br>
 
 ## Embedded Assembler Course
-
-## ARM Cortex Assembler Primer
-
--> Click [HERE](https://github.com/mytechnotalent/Embedded-Assembler/blob/main/Assembler-Primer.pdf) to read the FREE pdf book.
 
 ## Embedded Assembler Course (Chapter 1: Toolchain)
 This chapter covers the basics of setting up a dev environment and basic template firmware for the STM32F401CCU6 MCU.
@@ -1491,6 +1526,111 @@ This chapter covers hacking the floating-point data type as it relates to embedd
 
 -> Click [HERE](https://github.com/mytechnotalent/Embedded-Hacking/blob/main/Embedded-Hacking.pdf) to read the FREE pdf book.
 
+## Embedded Hacking Course (Chapter 17: Double Floating-Point Data Type)
+This chapter covers the double floating-point data type as it relates to embedded development on the Pico W.
+
+-> Click [HERE](https://github.com/mytechnotalent/Embedded-Hacking/blob/main/Embedded-Hacking.pdf) to read the FREE pdf book.
+
+## Embedded Hacking Course (Chapter 18: Debugging Double Floating-Point Data Type)
+This chapter covers debugging the double floating-point data type as it relates to embedded development on the Pico W.
+
+-> Click [HERE](https://github.com/mytechnotalent/Embedded-Hacking/blob/main/Embedded-Hacking.pdf) to read the FREE pdf book.
+
+## Embedded Hacking Course (Chapter 19: Hacking Double Floating-Point Data Type)
+This chapter covers hacking the double floating-point data type as it relates to embedded development on the Pico W.
+
+-> Click [HERE](https://github.com/mytechnotalent/Embedded-Hacking/blob/main/Embedded-Hacking.pdf) to read the FREE pdf book.
+
+## Embedded Hacking Course (Chapter 20: Static Variables)
+This chapter covers static variables as it relates to embedded development on the Pico W.
+
+-> Click [HERE](https://github.com/mytechnotalent/Embedded-Hacking/blob/main/Embedded-Hacking.pdf) to read the FREE pdf book.
+
+## Embedded Hacking Course (Chapter 21: Debugging Static Variables)
+This chapter covers debugging static variables as it relates to embedded development on the Pico W.
+
+-> Click [HERE](https://github.com/mytechnotalent/Embedded-Hacking/blob/main/Embedded-Hacking.pdf) to read the FREE pdf book.
+
+## Embedded Hacking Course (Chapter 22: Hacking Static Variables)
+This chapter covers hacking static variables as it relates to embedded development on the Pico W.
+
+-> Click [HERE](https://github.com/mytechnotalent/Embedded-Hacking/blob/main/Embedded-Hacking.pdf) to read the FREE pdf book.
+
+## Embedded Hacking Course (Chapter 23: Constants)
+This chapter covers constants as it relates to embedded development on the Pico W.
+
+-> Click [HERE](https://github.com/mytechnotalent/Embedded-Hacking/blob/main/Embedded-Hacking.pdf) to read the FREE pdf book.
+
+## Embedded Hacking Course (Chapter 24: Debugging Constants)
+This chapter covers debugging constants as it relates to embedded development on the Pico W.
+
+-> Click [HERE](https://github.com/mytechnotalent/Embedded-Hacking/blob/main/Embedded-Hacking.pdf) to read the FREE pdf book.
+
+## Embedded Hacking Course (Chapter 25: Hacking Constants)
+This chapter covers hacking constants as it relates to embedded development on the Pico W.
+
+-> Click [HERE](https://github.com/mytechnotalent/Embedded-Hacking/blob/main/Embedded-Hacking.pdf) to read the FREE pdf book.
+
+## Embedded Hacking Course (Chapter 26: Operators)
+This chapter covers operators as it relates to embedded development on the Pico W.
+
+-> Click [HERE](https://github.com/mytechnotalent/Embedded-Hacking/blob/main/Embedded-Hacking.pdf) to read the FREE pdf book.
+
+## Embedded Hacking Course (Chapter 27: Debugging Operators)
+This chapter covers debugging operators as it relates to embedded development on the Pico W.
+
+-> Click [HERE](https://github.com/mytechnotalent/Embedded-Hacking/blob/main/Embedded-Hacking.pdf) to read the FREE pdf book.
+
+## Embedded Hacking Course (Chapter 28: Hacking Operators)
+This chapter covers hacking operators as it relates to embedded development on the Pico W.
+
+-> Click [HERE](https://github.com/mytechnotalent/Embedded-Hacking/blob/main/Embedded-Hacking.pdf) to read the FREE pdf book.
+
+## Embedded Hacking Course (Chapter 29: Static Conditionals)
+This chapter covers static conditionals as it relates to embedded development on the Pico W.
+
+-> Click [HERE](https://github.com/mytechnotalent/Embedded-Hacking/blob/main/Embedded-Hacking.pdf) to read the FREE pdf book.
+
+## Embedded Hacking Course (Chapter 30: Debugging Static Conditionals)
+This chapter covers debugging static conditionals as it relates to embedded development on the Pico W.
+
+-> Click [HERE](https://github.com/mytechnotalent/Embedded-Hacking/blob/main/Embedded-Hacking.pdf) to read the FREE pdf book.
+
+## Embedded Hacking Course (Chapter 31: Hacking Static Conditionals)
+This chapter covers hacking static conditionals as it relates to embedded development on the Pico W.
+
+-> Click [HERE](https://github.com/mytechnotalent/Embedded-Hacking/blob/main/Embedded-Hacking.pdf) to read the FREE pdf book.
+
+## Embedded Hacking Course (Chapter 32: Dynamic Conditionals)
+This chapter covers dynamic conditionals as it relates to embedded development on the Pico W.
+
+-> Click [HERE](https://github.com/mytechnotalent/Embedded-Hacking/blob/main/Embedded-Hacking.pdf) to read the FREE pdf book.
+
+## Embedded Hacking Course (Chapter 33: Debugging Dynamic Conditionals)
+This chapter covers debugging dynamic conditionals as it relates to embedded development on the Pico W.
+
+-> Click [HERE](https://github.com/mytechnotalent/Embedded-Hacking/blob/main/Embedded-Hacking.pdf) to read the FREE pdf book.
+
+## Embedded Hacking Course (Chapter 34: Hacking Dynamic Conditionals)
+This chapter covers hacking dynamic conditionals as it relates to embedded development on the Pico W.
+
+-> Click [HERE](https://github.com/mytechnotalent/Embedded-Hacking/blob/main/Embedded-Hacking.pdf) to read the FREE pdf book.
+
+## Embedded Hacking Course (Chapter 35: Functions, w/o Param, w/o Return)
+This chapter covers functions, w/o params and without a return value as it relates to embedded development on the Pico W.
+
+-> Click [HERE](https://github.com/mytechnotalent/Embedded-Hacking/blob/main/Embedded-Hacking.pdf) to read the FREE pdf book.
+
+## Embedded Hacking Course (Chapter 36: Debugging Functions, w/o Param, w/o Return)
+This chapter covers debugging functions, w/o params and without a return value as it relates to embedded development on the Pico W.
+
+-> Click [HERE](https://github.com/mytechnotalent/Embedded-Hacking/blob/main/Embedded-Hacking.pdf) to read the FREE pdf book.
+
+## Embedded Hacking Course (Chapter 37: Hacking Functions, w/o Param, w/o Return)
+This chapter covers hacking functions, w/o params and without a return value as it relates to embedded development on the Pico W.
+
+-> Click [HERE](https://github.com/mytechnotalent/Embedded-Hacking/blob/main/Embedded-Hacking.pdf) to read the FREE pdf book.
+
 IN DEVELOPMENT...  MORE TO COME SOON!!!
 
 <br>
@@ -1501,49 +1641,41 @@ IN DEVELOPMENT...  MORE TO COME SOON!!!
 This lesson will begin with the basic concepts of why kids should learn to program in Python.
 
 -> Click [HERE](https://github.com/mytechnotalent/Python-For-Kids/blob/main/Python_For_Kids_01r.pdf) to read the lesson in PDF format. <br>
--> Click [HERE](https://youtu.be/eAkOAuHkroI) to watch the video on YouTube.
 
 ## Python For Kids Course (Chapter 2 - "Hello World")
 This lesson will step-by-step code our first program to have our little microcontroller say hello to the world!
 
 -> Click [HERE](https://github.com/mytechnotalent/Python-For-Kids/blob/main/Python_For_Kids_01r.pdf) to read the lesson in PDF format. <br>
--> Click [HERE](https://youtu.be/QnlBMgSZUzU) to watch the video on YouTube.
 
 ## Python For Kids Course (Chapter 3 - FUN With Images)
 This lesson will step-by-step code a FUN image making program where our little microcontroller will make various faces to his new friend.
 
 -> Click [HERE](https://github.com/mytechnotalent/Python-For-Kids/blob/main/Python_For_Kids_01r.pdf) to read the lesson in PDF format. <br>
--> Click [HERE](https://youtu.be/L6-R7LRj5ik) to watch the video on YouTube.
 
 ## Python For Kids Course (Chapter 4 - FUN With Numbers)
 This lesson will step-by-step code a FUN program where we will work with numbers and learn about how to make variables with them. 
 
 -> Click [HERE](https://github.com/mytechnotalent/Python-For-Kids/blob/main/Python_For_Kids_01r.pdf) to read the lesson in PDF format. <br>
--> Click [HERE](https://youtu.be/uSRpjvSyhC8) to watch the video on YouTube.
 
 ## Python For Kids Course (Chapter 5 - FUN With Words)
 This lesson will step-by-step code a FUN program where we will work with words and learn about how to make variables with them. 
 
 -> Click [HERE](https://github.com/mytechnotalent/Python-For-Kids/blob/main/Python_For_Kids_01r.pdf) to read the lesson in PDF format. <br>
--> Click [HERE](https://youtu.be/cMrzeprc3j4) to watch the video on YouTube.
 
 ## Python For Kids Course (Chapter 6 - Fun With Word Lists)
 This lesson will step-by-step code a FUN program where we will work with word lists and learn about how to make variables with them. 
 
 -> Click [HERE](https://github.com/mytechnotalent/Python-For-Kids/blob/main/Python_For_Kids_01r.pdf) to read the lesson in PDF format. <br>
--> Click [HERE](https://youtu.be/2cYZt0imQBk) to watch the video on YouTube.
 
 ## Python For Kids Course (Chapter 7 - Fun With Music)
 This lesson will step-by-step code a FUN song making program where our little microcontroller will play various songs to his new friend. 
 
 -> Click [HERE](https://github.com/mytechnotalent/Python-For-Kids/blob/main/Python_For_Kids_01r.pdf) to read the lesson in PDF format. <br>
--> Click [HERE](https://youtu.be/JMXXGRnR7fo) to watch the video on YouTube.
 
 ## Python For Kids Course (Chapter 8 - Fun With Talking Robots)
 This lesson will step-by-step interact with a FUN talking robot where we can ask him questions and he will respond to us using his voice. 
 
 -> Click [HERE](https://github.com/mytechnotalent/Python-For-Kids/blob/main/Python_For_Kids_01r.pdf) to read the lesson in PDF format. <br>
--> Click [HERE](https://youtu.be/lBEWy5M4fuI) to watch the video on YouTube.
 
 ## Python For Kids Course (Chapter 9 - Basic I/O)
 This lesson will discuss MicroPython basic input and output for the micro:bit.
